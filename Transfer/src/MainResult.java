@@ -8,7 +8,5 @@ public class MainResult {
     	
     	Notification result = new Notification();
     	result.getForConsole(resultForConsole);
-    	
-    	System.out.println("Hello");
     }
 }
